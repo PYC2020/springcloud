@@ -19,7 +19,7 @@ spring:
    password: a    # 数据库连接密码
  application:
    name: microservice-config-product-client
- profiles: beta
+ profiles: dev
 
 logging:
   level:
